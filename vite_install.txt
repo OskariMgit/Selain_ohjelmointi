@@ -1,0 +1,4 @@
+1. asenna node.js https://nodejs.org/en/download/
+2.npm create vite@latest
+3.kansioosa npm install
+4.npm run  dev
