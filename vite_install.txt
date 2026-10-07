@@ -2,3 +2,15 @@
 2.npm create vite@latest
 3.kansioosa npm install
 4.npm run  dev
+
+
+
+JSON SERVER ja AXIOS
+Juuressa:
+npm install axios
+npm install json-server --save-dev
+"server": "json-server -p 3001 db.json"  <-- lisää package.json "scripts"
+npm run server
+
+
+
